@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "795343839654",
+    "firebase_url": "https://gasleakage-5ea04-default-rtdb.firebaseio.com",
+    "project_id": "gasleakage-5ea04",
+    "storage_bucket": "gasleakage-5ea04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795343839654:android:4d92859c2ba0e4718b6f67",
+        "android_client_info": {
+          "package_name": "com.example.gasleakage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmi-2PhJiRAFg9jCglscl2fVdI-USPPaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
